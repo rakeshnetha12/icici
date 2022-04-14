@@ -1,0 +1,38 @@
+
+body{
+    background-color: #F7F6F1 !important;
+}
+.form_bg{
+    background-color: #fff;
+    padding:10px 20px;
+    margin-top: 20px;
+}
+.tx-red{
+    color:red;
+}
+div#editor {
+    width: 81%;
+    margin: auto;
+    text-align: left;
+  }
+  
+  .ss {
+    background-color: red;
+  }
+  .fr-toolbar{
+    border-top: 5px solid #E77817 !important;
+  }
+  #area{
+      height: 100px;
+  }
+  .icici_color{
+    background-color: #E77817;
+    color:#fff;
+    margin-top: 20px;
+  }
+  .border-rds-2{
+    border-radius: 20px;
+  }
+  .fr-box.fr-basic .fr-element {
+    min-height: 100px !important;
+}
